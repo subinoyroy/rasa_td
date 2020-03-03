@@ -54,3 +54,32 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:thanks
+- thank you
+- thanks
+- thank you very much
+- ok
+
+## intent:inform
+- [San Fransisco](location)
+- [New York](location)
+- [Texas](location)
+- [Dallas](location)
+- [Arizona](location)
+- [Chicago](location)
+- [Tucson](location)
+- [Columbus](location)
+
+## intent:search_provider
+- I need a [hospital](facility_type)
+- I need a [nursing home](facility_type)
+- Show me a [hospital](facility_type) in [Arizona](location)
+- [hospital](facility_type)
+- [nursing home](facility_type)
+- Find me a [hospital](facility_type) in [San Fransisco](location)
+- I need a [nursing home](facility_type) in [Chicago](location)
+- Find me a [hospital](facility_type)
+- Find me a [doctor](facility_type) in [New York](location)
+- I need a [doctor](facility_type) in [Dallas](location)
+- Get me a [doctor](facility_type) in [Texas](location)
